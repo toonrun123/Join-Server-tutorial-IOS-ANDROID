@@ -1,6 +1,6 @@
 # Join-Server-tutorial-IOS-ANDROID
 #### 1.Copy these Javascript for Android/IOS. (Copy follow red dot.)
-![YEAH](https://i.gyazo.com/275263c4faad052e9e61b0bc614435af.png)
+![YEAH](https://gyazo.com/682eade85ef390f34ac932114ab7bdbd.png)
 #### 2.Go Google Search and paste like this (99% Google Remove "javascript:" you need fill again.).
 ![POG](https://gyazo.com/a942e9a0e023d10ea61ed5039048259d.png)
 #### 3.Then Press Go Button.
