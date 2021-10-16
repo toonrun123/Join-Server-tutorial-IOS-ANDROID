@@ -7,3 +7,4 @@
 ![rayman](https://gyazo.com/588c75e02a4514f4000f177531aa71d7.png)
 #### (If Be this Open with Normal roblox client.)
 #### 4.Wait For Roblox Client Responed.
+#### (Sorry again, tutorial is ugly but it work.)
